@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "es5",
+    "declaration": true,
+    "rootDir": "./",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "dist/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

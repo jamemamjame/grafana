@@ -1,0 +1,17 @@
+{
+  "type": "datasource",
+  "name": "DevOpsWhitefalcon",
+  "id": "whitefalcon",
+  "metrics": true,
+  "annotations": false,
+  "includes": [],
+  "info": {
+    "author": {
+      "name": "Agoda Data Platform"
+    },
+    "logos": {
+      "small": "img/fav256.png",
+      "large": "img/fav256.png"
+    }
+  }
+}
